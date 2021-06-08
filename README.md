@@ -1,6 +1,6 @@
 ![Cover](https://github.com/celinedepauw/celinedepauw/blob/main/img/picture_cover.jpg)
 
-## See my professionnal profile on Linkedin
+### See my professionnal profile on Linkedin
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
