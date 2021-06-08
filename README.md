@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Cover](https://github.com/celinedepauw/celinedepauw/edit/main/img/picture_cover.jpg)
 <!--
 **celinedepauw/celinedepauw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
