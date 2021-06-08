@@ -9,3 +9,7 @@ https://www.canva.com/design/DAEXtkdLzpI/V9oH1MMyO2PCxNRszpi3tA/view?utm_content
 
 - :crossed_swords: I'm working on different projects to show you I'm the good person to join your team 	:handshake: 
 
+
+### Certificates
+- Opquast : Mastering Web Quality Assurance (score : 815/1000, advanced badge)
+https://directory.opquast.com/fr/certificat/EW45IX/
