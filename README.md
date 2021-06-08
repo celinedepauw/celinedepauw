@@ -1,9 +1,6 @@
-### Hi there 👋
 ![Cover](https://github.com/celinedepauw/celinedepauw/blob/main/img/picture_cover.jpg)
-<!--
-**celinedepauw/celinedepauw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## See my professionnal profile on Linkedin
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
