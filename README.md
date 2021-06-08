@@ -4,7 +4,8 @@
 - 	:briefcase: See my professionnal profile on Linkedin
 https://www.linkedin.com/in/celinedepauw/
 
-- :memo: Discover my Curriculum Vitae (available soon)
+- :memo: Discover my Curriculum Vitae
+https://www.canva.com/design/DAEXtkdLzpI/V9oH1MMyO2PCxNRszpi3tA/view?utm_content=DAEXtkdLzpI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 - :crossed_swords: I'm working on different projects to show you I'm the good person to join your team 	:handshake: 
 
