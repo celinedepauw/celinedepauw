@@ -1,4 +1,4 @@
-![Cover](https://github.com/celinedepauw/celinedepauw/blob/main/img/picture_cover.jpg | width=100)
+<img width="500" src="https://github.com/celinedepauw/celinedepauw/blob/main/img/picture_cover.jpg" alt="fond">
 ### Hi ! :rainbow: 
 ### I'm a Web Developer 	:woman: and I'm looking for un job 	:computer:
 - 	:briefcase: See my professionnal profile on Linkedin
