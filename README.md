@@ -1,4 +1,4 @@
-<img width="500" src="https://github.com/celinedepauw/celinedepauw/blob/main/img/picture_cover.jpg" alt="fond">
+<img width="800" height="300" src="https://github.com/celinedepauw/celinedepauw/blob/main/img/picture_cover.jpg" alt="fond">
 ### Hi ! :rainbow: 
 ### I'm a Web Developer 	:woman: and I'm looking for un job 	:computer:
 - 	:briefcase: See my professionnal profile on Linkedin
