@@ -11,6 +11,7 @@ https://www.canva.com/design/DAEXtkdLzpI/V9oH1MMyO2PCxNRszpi3tA/view?utm_content
 
 
 ### Certificates
+- Titre Professionnel Développeur Web et Web Mobile (niveau V) mai 2021
 - Opquast : Mastering Web Quality Assurance (score : 815/1000, advanced badge) juin 2021
 https://directory.opquast.com/fr/certificat/EW45IX/
-- Titre Professionnel Développeur Web et Web Mobile (niveau V) mai 2021
+
