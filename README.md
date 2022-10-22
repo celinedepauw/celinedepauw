@@ -1,5 +1,6 @@
 <img width="800" height="300" src="https://github.com/celinedepauw/celinedepauw/blob/main/img/picture_cover.jpg" alt="fond">
 
+### I'm a web developper and I'm becoming a Product Owner
 
 ### Certificates
 - Titre Professionnel Développeur Web et Web Mobile (niveau V) mai 2021
